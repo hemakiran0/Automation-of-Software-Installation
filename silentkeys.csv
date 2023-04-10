@@ -1,0 +1,13 @@
+devcpp-4.9.9.2_setup.exe,/S /v/qn /norestart,Dev-C++ 5 beta 9 release (4.9.9.2)
+Sublime Text Build 3211 x64 Setup.exe,/VERYSILENT /NORESTART,Sublime Text 3 
+npp.8.5.Installer.x64.exe,/S,Notepad++ (64-bit x64)
+httrack_x64-3.49.2.exe,/SP- /VERYSILENT,WinHTTrack Website Copier 3.49-2 (x64)
+vlc-3.0.18-win32.exe,/S,VLC media player
+python-3.11.1-amd64.exe,/passive /quiet InstallAllUsers=1,Python 3.11.1 Test Suite (64-bit)
+7z2021.exe,/qn /norestart,7-Zip 22.01 (x64)
+VSCodeSetup.exe,/VERYSILENT /NORESTART /MERGETASKS=!runcode,Microsoft Visual Studio Code 
+geany-1.38_setup.exe,/S,Geany 1.38 
+ZoomInstaller.exe,/qn /norestart,Zoom
+GoogleChromeStandaloneEnterprise64.msi,/qn /norestart,Google Chrome
+TurboVNC-3.0.2-x64.exe,/SP- /VERYSILENT /SUPPRESSMSGBOXES /NORESTART,TurboVNC 64-bit v3.0.2 (20221128)
+Skype-8.91.0.404.exe,/SP- /VERYSILENT /SUPPRESSMSGBOXES /NORESTART,Skype version 8.91
